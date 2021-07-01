@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Chỉ cần ngồi với em chút thôi được không? Nhìn vào đôi mắt em thấy sao? Một thế giới màu hồng❤️',
     mess: 'Em biết mà 🥰. Hihi',
     messDesc: 'Yêu ai nhất?.',
-    btnAccept: 'Emmmmmm❤️❤️',
+    btnAccept: 'Emmmmmm❤️❤️❤️',
     messLink: 'https://www.facebook.com/Duyenmai.1204',
 }
